@@ -1,3 +1,5 @@
 All you need is the ZIP file. That contains everything for the app.
 
 Inside the ZIP file is an script called "How_To_Use.html" If you open it in your browser it explains everything about the app.
+
+To contact me you can email me at contactvrem@gmail.com
